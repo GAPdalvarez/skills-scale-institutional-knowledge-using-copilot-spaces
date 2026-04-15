@@ -14,11 +14,17 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
+- Project Manager (PM): coordinates delivery, schedules, risk, and communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- Stakeholders: provide directional input and approvals.
+- UX Designer: ensures usability and accessibility outcomes.
+- DevOps / Platform Engineer: owns CI/CD and deployment reliability.
+- Security Lead: guides secure delivery and incident response.
+- Customer Support Lead: represents customer issue trends and support readiness.
+- Executive Sponsor: provides escalation authority and strategic alignment.
+- External Stakeholder: provides partner/customer/regulatory perspective.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -40,6 +46,11 @@ Applies to all cross-functional projects that deliver product features, services
 - Twice-weekly standups for delivery team (or as agreed)
 - Monthly stakeholder updates
 - Ad-hoc escalations as needed
+
+## Related Role & Accountability Docs
+- [OctoAcme Personas](./octoacme-roles-and-personas.md)
+- [OctoAcme RACI Matrix](./octoacme-raci-matrix.md)
+- [OctoAcme Project Kickoff Checklist](./octoacme-project-kickoff-checklist.md)
 
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
